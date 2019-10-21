@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameHead.h">
-      <Filter>ヘッダー ファイル</Filter>
-    </ClInclude>
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\main.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
@@ -53,6 +50,9 @@
     </ClInclude>
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\WinInputs.h">
       <Filter>リソース ファイル</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameHead.h">
+      <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
