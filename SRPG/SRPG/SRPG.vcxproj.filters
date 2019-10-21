@@ -54,6 +54,9 @@
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameHead.h">
       <Filter>ヘッダー ファイル</Filter>
     </ClInclude>
+    <ClInclude Include="title.h">
+      <Filter>ソース ファイル</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\Audio.cpp">

@@ -128,6 +128,7 @@
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\UserData.h" />
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\WinInputs.h" />
     <ClInclude Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\main.h" />
+    <ClInclude Include="title.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\win10&amp;DirctX11&amp;VS2015_2\指南書\２Ｄライブラリ\GameL\Audio.cpp" />
